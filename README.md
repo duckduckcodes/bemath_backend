@@ -18,7 +18,7 @@ $ npm install
 
 ```bash
 # start docker
-$  sudo npm run docker:compose
+$ sudo npm run docker:compose
 
 # development
 $ npm run start
@@ -31,6 +31,3 @@ $ npm run start:prod
 ```
 
 
-## License
-
-Nest is [MIT licensed](LICENSE).
